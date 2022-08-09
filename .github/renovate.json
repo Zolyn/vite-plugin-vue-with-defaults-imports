@@ -1,0 +1,3 @@
+{
+    "extends": ["github>Zolyn/renovate-config"]
+}
