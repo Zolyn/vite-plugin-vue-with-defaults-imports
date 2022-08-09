@@ -78,6 +78,10 @@ const props = withDefaults(defineProps<Props>(), { ...propsDefaults });
 
 How it works is very simple, it just turns `defaults` into `{ ...defaults }` to force Vue to [fallback to runtime merging](https://github.com/vuejs/core/blob/769e5555f9d9004ce541613341652db859881570/packages/compiler-sfc/src/compileScript.ts#L678-L682)
 
+## See also
+
+-   [vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports)
+
 ## License
 
 [MIT](LICENSE)
