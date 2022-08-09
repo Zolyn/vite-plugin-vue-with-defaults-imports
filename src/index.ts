@@ -2,7 +2,7 @@ import { Plugin } from 'vite';
 import { replaceString } from './utils';
 
 export * from './utils';
-export default function VitePluginVueMacrosAnalyzer(): Plugin {
+export default function VitePluginVueWithDefaultsImports(): Plugin {
     return {
         enforce: 'pre',
         name: 'vite-plugin-vue-with-defaults-imports',
