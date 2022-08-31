@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@antfu/ni': 0.17.2
+  '@antfu/ni': 0.18.0
   '@commitlint/cli': ^17.0.3
   '@commitlint/config-conventional': ^17.0.3
   '@types/debug': ^4.1.7
@@ -23,7 +23,7 @@ specifiers:
   vue: ^3.2.37
 
 devDependencies:
-  '@antfu/ni': 0.17.2
+  '@antfu/ni': 0.18.0
   '@commitlint/cli': 17.0.3
   '@commitlint/config-conventional': 17.0.3
   '@types/debug': 4.1.7
@@ -54,8 +54,8 @@ packages:
       '@jridgewell/trace-mapping': 0.3.14
     dev: true
 
-  /@antfu/ni/0.17.2:
-    resolution: {integrity: sha512-uYsmcsQzylpMiRB4gJRwcEJMIrKyeHZO0CJct8MmqkT3B7HTFU6oSZhDB50E/XvQw7FW8oT/tKsq3NFplRgG2Q==}
+  /@antfu/ni/0.18.0:
+    resolution: {integrity: sha512-D0eek5EV8wOUpZNVAs/mPyeC5TMWFXqchqCyPiR6Lj5FgmSJw0EpFLqAczHX0O5+Jc07N7NBwBip85Gi1MBJnA==}
     hasBin: true
     dev: true
 
