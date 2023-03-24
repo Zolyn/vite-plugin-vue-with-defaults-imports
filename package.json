@@ -57,7 +57,7 @@
     "@zolyn/changelogithub": "0.12.0",
     "@zolyn/cz-conventional-changelog": "^1.0.1",
     "@zolyn/eslint-config": "^1.1.0",
-    "bumpp": "^8.2.1",
+    "bumpp": "^9.0.0",
     "commitizen": "^4.2.4",
     "eslint": "^8.19.0",
     "git-ensure": "^0.1.0",
